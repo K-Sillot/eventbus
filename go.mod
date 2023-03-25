@@ -1,4 +1,4 @@
-module github.com/siyuan-note/eventbus
+module github.com/K-Sillot/eventbus
 
 go 1.18
 
