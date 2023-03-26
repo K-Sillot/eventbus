@@ -1,5 +1,5 @@
 module github.com/K-Sillot/eventbus
 
-go 1.18
+go 1.20
 
-require github.com/asaskevich/EventBus v0.0.0-20200907212545-49d423059eef // indirect
+require github.com/asaskevich/EventBus v0.0.0-20200907212545-49d423059eef

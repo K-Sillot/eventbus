@@ -2,7 +2,7 @@
 
 ## 💡 Introduction
 
-Event Bus for SiYuan.
+Event Bus for Sillot.
 
 ## 🙏 Acknowledgement
 
